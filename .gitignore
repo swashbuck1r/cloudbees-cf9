@@ -32,7 +32,6 @@ webapp/WEB-INF/lib/portlet-proxy.jar
 webapp/WEB-INF/cf-wsrp-portlet.xml
 webapp/WEB-INF/cfform-gateway-config.xml
 webapp/WEB-INF/client-config.wsdd
-webapp/WEB-INF/cloudbees-web.xml
 webapp/WEB-INF/gateway-config.xml
 webapp/WEB-INF/j2ee-web.xml
 webapp/WEB-INF/jrun-web.xml
